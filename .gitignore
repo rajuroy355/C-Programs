@@ -1,0 +1,4 @@
+#ignore the executable files
+a.exe
+#ignore the snakeGameConstruction file
+snakeGameInConstruction.c
